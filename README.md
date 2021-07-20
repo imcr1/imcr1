@@ -24,10 +24,8 @@ or <a href="mailto:nahamcod@gmail.com"><b>email</b></a> me
 
 <i>Follow me around the web:</i><br>
 
-  <!-- 
-  <a target="_blank" href="https://www.instagram.com/cr1/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a>-->
 
 
-<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/cr1" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
