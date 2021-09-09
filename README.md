@@ -29,3 +29,4 @@ or <a href="mailto:nahamcod@gmail.com"><b>email</b></a> me
 <a href="https://www.instagram.com/cr1" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
+![Profile views](https://gpvc.arturio.dev/imcr1) 
