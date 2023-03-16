@@ -8,9 +8,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/imcr1/imcr1/issues/new"><b>here</b></a><br>
-or <a href="mailto:nahamcod@gmail.com"><b>email</b></a> me
-
+Ask me anything <a href="https://instagram.com/cr1"><b>here</b></a><br>
 <i>Happy Coding!</i> 😊
 
 </div>
