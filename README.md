@@ -9,7 +9,7 @@
 </div>
 
 ## 💫 About Me
-I'm a passionate developer who loves creating innovative solutions. Feel free to explore my repositories, raise issues, and submit PRs if you think something could be better!
+I'm a medical student with a passion for technology and development. My interests span across cybersecurity, reverse engineering, and CIT (Computer Information Technology), alongside creating innovative software solutions. Feel free to explore my repositories, raise issues, and submit PRs if you think something could be better!
 
 ## 🚀 Tech Stack
 
@@ -39,6 +39,7 @@ I'm a passionate developer who loves creating innovative solutions. Feel free to
 
 <div align="center">
   
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nerd.bh)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cr1)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imcr1)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hsoq)
@@ -49,8 +50,3 @@ I'm a passionate developer who loves creating innovative solutions. Feel free to
 
 </div>
 
-<div align="center">
-  
-  Happy Coding! 👨‍💻
-
-</div>
